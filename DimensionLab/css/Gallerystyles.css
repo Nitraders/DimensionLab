@@ -1,0 +1,100 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+}
+  
+li {
+float: right;
+
+}
+  
+li a {
+    display: block;
+    color: rgb(255, 204, 0);
+    text-align: left;
+    padding: 30px 70px;
+    text-decoration: none;
+    font-size: large;
+    font-family: Verdana;
+
+}
+  
+  
+li a:hover {
+    background-color: #111;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: #000000; /* Background color of the footer */
+    color: rgb(255, 204, 0); /* Text color of the footer */
+    padding: 20px; /* Padding around the content inside the footer */
+    width: 100%; /* Full width of the viewport */
+    text-align: right; /* Center align the text inside the footer */
+    position: relative; /* Change positioning to relative */
+    margin-top: 590px; /* Add some space between the footer and the content */
+    clear: both; /* Ensure that footer clears both left and right floated elements */
+
+}
+
+.Menu{
+    padding-right: 300px;
+
+
+
+}
+
+.text-container{
+    color:yellow;
+
+
+
+}
+
+h1{
+    color:yellow;
+
+
+
+}
+
+
+
+.linkmenu{
+    color: rgb(255, 204, 0);
+    text-decoration: none;
+
+
+
+}
+
